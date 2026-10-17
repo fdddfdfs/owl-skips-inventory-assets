@@ -1,0 +1,55 @@
+itemdefid,stable_id,subject_id,rarity,drop_weight,drop_chance_percent,name,printed_card_caption,small_icon,large_icon
+2101,star_chicken,star_chicken,Rare,1,0.370370,Starlight Explorer,,star_chicken-small.png,star_chicken-large.png
+2102,lantern_camel,lantern_camel,Rare,1,0.370370,Lantern Keeper,,lantern_camel-small.png,lantern_camel-large.png
+2103,painting_bird,painting_bird,Rare,1,0.370370,Moonrise Painter,,painting_bird-small.png,painting_bird-large.png
+2104,guitar_gator,guitar_gator,Rare,1,0.370370,Midnight Minstrel,,guitar_gator-small.png,guitar_gator-large.png
+2105,selfie_frog,selfie_frog,Rare,1,0.370370,Pondside Portrait,,selfie_frog-small.png,selfie_frog-large.png
+2106,cheering_donkey,cheering_donkey,Rare,1,0.370370,Woodland Cheer,,cheering_donkey-small.png,cheering_donkey-large.png
+2107,rope_owl,rope_owl,Rare,1,0.370370,Moonlit Skipper,,rope_owl-small.png,rope_owl-large.png
+2108,skater_bear,skater_bear,Rare,1,0.370370,Acorn Alley Skater,,skater_bear-small.png,skater_bear-large.png
+2109,bubble_giraffe,bubble_giraffe,Rare,1,0.370370,Bubble Stargazer,,bubble_giraffe-small.png,bubble_giraffe-large.png
+2110,magician_tiger,magician_tiger,Rare,1,0.370370,Striped Spellcaster,,magician_tiger-small.png,magician_tiger-large.png
+2111,pirate_turkey,pirate_turkey,Rare,1,0.370370,Feathered Freebooter,,pirate_turkey-small.png,pirate_turkey-large.png
+2112,rodeo_dinosaur,rodeo_dinosaur,Rare,1,0.370370,Tiny Trail Wrangler,,rodeo_dinosaur-small.png,rodeo_dinosaur-large.png
+2113,swimmer_squirrel,swimmer_squirrel,Rare,1,0.370370,Moonpool Paddler,,swimmer_squirrel-small.png,swimmer_squirrel-large.png
+2114,sleepy_sheep,sleepy_sheep,Rare,1,0.370370,Cloud Napper,,sleepy_sheep-small.png,sleepy_sheep-large.png
+2115,icecream_octopus,icecream_octopus,Rare,1,0.370370,Eight Scoops of Joy,,icecream_octopus-small.png,icecream_octopus-large.png
+2116,ballerina_pig,ballerina_pig,Rare,1,0.370370,Petal Pirouette,,ballerina_pig-small.png,ballerina_pig-large.png
+2117,racer_skunk,racer_skunk,Rare,1,0.370370,Pinecone Grand Prix,,racer_skunk-small.png,racer_skunk-large.png
+2118,juggler_monkey,juggler_monkey,Rare,1,0.370370,Firefly Juggler,,juggler_monkey-small.png,juggler_monkey-large.png
+2119,golfer_dog,golfer_dog,Rare,1,0.370370,Mossgreen Masters,,golfer_dog-small.png,golfer_dog-large.png
+2120,racing_bee,racing_bee,Rare,1,0.370370,Honey Sprint,,racing_bee-small.png,racing_bee-large.png
+2121,reading_crab,reading_crab,Rare,1,0.370370,Tidepool Scholar,,reading_crab-small.png,reading_crab-large.png
+2122,surfer_snake,surfer_snake,Rare,1,0.370370,Silverwave Rider,,surfer_snake-small.png,surfer_snake-large.png
+2123,ninja_cat,ninja_cat,Rare,1,0.370370,Shadowstep Kitten,,ninja_cat-small.png,ninja_cat-large.png
+2124,shopping_flamingo,shopping_flamingo,Rare,1,0.370370,Twilight Market,,shopping_flamingo-small.png,shopping_flamingo-large.png
+2125,chef_kangaroo,chef_kangaroo,Rare,1,0.370370,Campfire Chef,,chef_kangaroo-small.png,chef_kangaroo-large.png
+2126,football_lion,football_lion,Rare,1,0.370370,Golden Goal,,football_lion-small.png,football_lion-large.png
+2127,fishing_horse,fishing_horse,Rare,1,0.370370,Quietwater Angler,,fishing_horse-small.png,fishing_horse-large.png
+2201,star_chicken_common,star_chicken,Common,9,3.333333,Astronaut Chicken,ASTRONAUT CHICKEN,star_chicken_common-small.png,star_chicken_common-large.png
+2202,lantern_camel_common,lantern_camel,Common,9,3.333333,Camel Cleaning,CAMEL CLEANING,lantern_camel_common-small.png,lantern_camel_common-large.png
+2203,painting_bird_common,painting_bird,Common,9,3.333333,Bird Painting,BIRD PAINTING,painting_bird_common-small.png,painting_bird_common-large.png
+2204,guitar_gator_common,guitar_gator,Common,9,3.333333,Alligator Playing Guitar,ALLIGATOR PLAYING GUITAR,guitar_gator_common-small.png,guitar_gator_common-large.png
+2205,selfie_frog_common,selfie_frog,Common,9,3.333333,Frog Taking A Selfie,FROG TAKING A SELFIE,selfie_frog_common-small.png,selfie_frog_common-large.png
+2206,cheering_donkey_common,cheering_donkey,Common,9,3.333333,Cheerleader Donkey,CHEERLEADER DONKEY,cheering_donkey_common-small.png,cheering_donkey_common-large.png
+2207,rope_owl_common,rope_owl,Common,9,3.333333,Owl Jumping Rope,OWL JUMPING ROPE,rope_owl_common-small.png,rope_owl_common-large.png
+2208,skater_bear_common,skater_bear,Common,9,3.333333,Bear Skateboarding,BEAR SKATEBOARDING,skater_bear_common-small.png,skater_bear_common-large.png
+2209,bubble_giraffe_common,bubble_giraffe,Common,9,3.333333,Giraffe Blowing Bubbles,GIRAFFE BLOWING BUBBLES,bubble_giraffe_common-small.png,bubble_giraffe_common-large.png
+2210,magician_tiger_common,magician_tiger,Common,9,3.333333,Tiger Magician,TIGER MAGICIAN,magician_tiger_common-small.png,magician_tiger_common-large.png
+2211,pirate_turkey_common,pirate_turkey,Common,9,3.333333,Pirate Turkey,PIRATE TURKEY,pirate_turkey_common-small.png,pirate_turkey_common-large.png
+2212,rodeo_dinosaur_common,rodeo_dinosaur,Common,9,3.333333,Rodeo Dinosaur,RODEO DINOSAUR,rodeo_dinosaur_common-small.png,rodeo_dinosaur_common-large.png
+2213,swimmer_squirrel_common,swimmer_squirrel,Common,9,3.333333,Squirrel Swimming,SQUIRREL SWIMMING,swimmer_squirrel_common-small.png,swimmer_squirrel_common-large.png
+2214,sleepy_sheep_common,sleepy_sheep,Common,9,3.333333,Sheep Sleeping,SHEEP SLEEPING,sleepy_sheep_common-small.png,sleepy_sheep_common-large.png
+2215,icecream_octopus_common,icecream_octopus,Common,9,3.333333,Octopus Eating Ice Cream,OCTOPUS EATING ICE CREAM,icecream_octopus_common-small.png,icecream_octopus_common-large.png
+2216,ballerina_pig_common,ballerina_pig,Common,9,3.333333,Ballerina Pig,BALLERINA PIG,ballerina_pig_common-small.png,ballerina_pig_common-large.png
+2217,racer_skunk_common,racer_skunk,Common,9,3.333333,Skunk Driving A Racecar,SKUNK DRIVING A RACECAR,racer_skunk_common-small.png,racer_skunk_common-large.png
+2218,juggler_monkey_common,juggler_monkey,Common,9,3.333333,Juggling Monkey,JUGGLING MONKEY,juggler_monkey_common-small.png,juggler_monkey_common-large.png
+2219,golfer_dog_common,golfer_dog,Common,9,3.333333,Dog Golfing,DOG GOLFING,golfer_dog_common-small.png,golfer_dog_common-large.png
+2220,racing_bee_common,racing_bee,Common,9,3.333333,Bee Running A Race,BEE RUNNING A RACE,racing_bee_common-small.png,racing_bee_common-large.png
+2221,reading_crab_common,reading_crab,Common,9,3.333333,Crab Reading,CRAB READING,reading_crab_common-small.png,reading_crab_common-large.png
+2222,surfer_snake_common,surfer_snake,Common,9,3.333333,Surfing Snake,SURFING SNAKE,surfer_snake_common-small.png,surfer_snake_common-large.png
+2223,ninja_cat_common,ninja_cat,Common,9,3.333333,Ninja Cat,NINJA CAT,ninja_cat_common-small.png,ninja_cat_common-large.png
+2224,shopping_flamingo_common,shopping_flamingo,Common,9,3.333333,Flamingo Grocery Shopping,FLAMINGO GROCERY SHOPPING,shopping_flamingo_common-small.png,shopping_flamingo_common-large.png
+2225,chef_kangaroo_common,chef_kangaroo,Common,9,3.333333,Kangaroo Cooking,KANGAROO COOKING,chef_kangaroo_common-small.png,chef_kangaroo_common-large.png
+2226,football_lion_common,football_lion,Common,9,3.333333,Lion Playing Football,LION PLAYING FOOTBALL,football_lion_common-small.png,football_lion_common-large.png
+2227,fishing_horse_common,fishing_horse,Common,9,3.333333,Horse Fishing,HORSE FISHING,fishing_horse_common-small.png,fishing_horse_common-large.png

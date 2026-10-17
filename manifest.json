@@ -1,0 +1,1091 @@
+{
+  "appid": 5327880,
+  "provider": "GitHub",
+  "repository": "fdddfdfs/owl-skips-inventory-assets",
+  "origin": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main",
+  "schema_url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/ItemDefs.json",
+  "icon_base_url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1",
+  "cards": 54,
+  "images": [
+    {
+      "itemdefid": 2101,
+      "size": "small",
+      "filename": "star_chicken-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/star_chicken-small.png",
+      "bytes": 74452,
+      "sha256": "1603f66e68f7d6a38c5f05995f8b5704b5b63ddcb293483e41cfbddbc6c56471",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2101,
+      "size": "large",
+      "filename": "star_chicken-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/star_chicken-large.png",
+      "bytes": 7099397,
+      "sha256": "f738d1041c577fb1cd06c88f5ecf5706a43c08ad91ec3a63f22c3d5c27245186",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2102,
+      "size": "small",
+      "filename": "lantern_camel-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/lantern_camel-small.png",
+      "bytes": 73755,
+      "sha256": "d6156aafb5311778c862b10378cde18cacc511c812558ad66b5fa31d3e26eaf3",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2102,
+      "size": "large",
+      "filename": "lantern_camel-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/lantern_camel-large.png",
+      "bytes": 7218797,
+      "sha256": "ec1f11a76673f04257be5f1da31843e92df16c11b684736056c0acb4b1e42e84",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2103,
+      "size": "small",
+      "filename": "painting_bird-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/painting_bird-small.png",
+      "bytes": 74771,
+      "sha256": "7f9c8b364bd4c16e99821bacd3790cb41c4ccc2ec69438c74ff233159c6a8038",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2103,
+      "size": "large",
+      "filename": "painting_bird-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/painting_bird-large.png",
+      "bytes": 7294698,
+      "sha256": "a960d30f557c1d4f82027ce9dbb72950b0314812a82b1abf1b5c9a1bb31f4e07",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2104,
+      "size": "small",
+      "filename": "guitar_gator-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/guitar_gator-small.png",
+      "bytes": 72692,
+      "sha256": "3dff40a0ddc56b87756e2fda4d96975ec14ea08698e2d01df21a20e9c54f3fbf",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2104,
+      "size": "large",
+      "filename": "guitar_gator-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/guitar_gator-large.png",
+      "bytes": 7041855,
+      "sha256": "1114d7fa157d91ee2b476e38d6d9d50333a7b749ee2d01e2a86d17970e6f94d2",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2105,
+      "size": "small",
+      "filename": "selfie_frog-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/selfie_frog-small.png",
+      "bytes": 75048,
+      "sha256": "324d75bf5da24d769b54f922f4031220c09dfdecada53b28c9aa32b8c95e9cd5",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2105,
+      "size": "large",
+      "filename": "selfie_frog-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/selfie_frog-large.png",
+      "bytes": 7266452,
+      "sha256": "e103b842df2ffcfa246829458923cd03c60514059410972b29ba23bd10fde87d",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2106,
+      "size": "small",
+      "filename": "cheering_donkey-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/cheering_donkey-small.png",
+      "bytes": 74561,
+      "sha256": "a77f62b7d8d802cc250a58a198370299c56cf58d0075c079b1e35405db113c7f",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2106,
+      "size": "large",
+      "filename": "cheering_donkey-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/cheering_donkey-large.png",
+      "bytes": 7290975,
+      "sha256": "5bfbc25fbb7d8728eaedc3284817dd4e3e5aa2673efafbefcfa9b1d032615c73",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2107,
+      "size": "small",
+      "filename": "rope_owl-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/rope_owl-small.png",
+      "bytes": 74838,
+      "sha256": "c90b208f736c231ba9a77a9ac24fd086512d6bc883a5a21dd2ec926fbccda2db",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2107,
+      "size": "large",
+      "filename": "rope_owl-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/rope_owl-large.png",
+      "bytes": 7191258,
+      "sha256": "797616bca236f03255c05f2ccfde3c9271e3d21faf7b43b527c27a58eec5a98e",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2108,
+      "size": "small",
+      "filename": "skater_bear-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/skater_bear-small.png",
+      "bytes": 73667,
+      "sha256": "326ea6feb08cabe38a948cba20769280cd0941605f4eefd12a85b7246ffb3a58",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2108,
+      "size": "large",
+      "filename": "skater_bear-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/skater_bear-large.png",
+      "bytes": 7136369,
+      "sha256": "b3a0493d9c0d2c3e10e9c68799ed739736acebc49399cf88899dc9179d348524",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2109,
+      "size": "small",
+      "filename": "bubble_giraffe-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/bubble_giraffe-small.png",
+      "bytes": 76452,
+      "sha256": "33930a875e0d682b9b404458bbc76b240ce9c0a8d34d2673221e78759636357e",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2109,
+      "size": "large",
+      "filename": "bubble_giraffe-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/bubble_giraffe-large.png",
+      "bytes": 7514015,
+      "sha256": "0b96f6fe8c17cdd709f90425fe26ee5de7afdafc40dac5d5c13d68cb13a7fc1e",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2110,
+      "size": "small",
+      "filename": "magician_tiger-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/magician_tiger-small.png",
+      "bytes": 74724,
+      "sha256": "3fffc77e5d4f1915787e79b818ead42d438e36605532a2a5ed4ca274f184b50f",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2110,
+      "size": "large",
+      "filename": "magician_tiger-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/magician_tiger-large.png",
+      "bytes": 7160137,
+      "sha256": "8854d93b0956599338e2ff31a069c4f0be662a0f505c331ae30c79996171c1be",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2111,
+      "size": "small",
+      "filename": "pirate_turkey-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/pirate_turkey-small.png",
+      "bytes": 73528,
+      "sha256": "1ba373fdcdd1d1a6849f2473fa95a9f620646cd8332ae5969602b78dfa9d14c9",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2111,
+      "size": "large",
+      "filename": "pirate_turkey-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/pirate_turkey-large.png",
+      "bytes": 7175700,
+      "sha256": "d9214e743689f088c97786e4672e7b91994e5750fdc8037436b7ef6d49ec519a",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2112,
+      "size": "small",
+      "filename": "rodeo_dinosaur-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/rodeo_dinosaur-small.png",
+      "bytes": 74658,
+      "sha256": "a99e34df38053c33798be17576607594399265470522e2648521b3efd6955db1",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2112,
+      "size": "large",
+      "filename": "rodeo_dinosaur-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/rodeo_dinosaur-large.png",
+      "bytes": 7150932,
+      "sha256": "152556fb5b09f68210dc7703ea27c69324bae7df97ed627b79357a1777fee8e9",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2113,
+      "size": "small",
+      "filename": "swimmer_squirrel-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/swimmer_squirrel-small.png",
+      "bytes": 73566,
+      "sha256": "9f916ef89a8d35d0d9ec3f1a5562a85fbacef6f6b7d41863e5b1d37a868782ff",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2113,
+      "size": "large",
+      "filename": "swimmer_squirrel-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/swimmer_squirrel-large.png",
+      "bytes": 6978783,
+      "sha256": "f5d0744c4df95957a77f4e7a69453d1c2cfa4a700f8fccdb70b4cb7a0f58f9c0",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2114,
+      "size": "small",
+      "filename": "sleepy_sheep-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/sleepy_sheep-small.png",
+      "bytes": 75080,
+      "sha256": "b4f39c76a0598e5027e1dd17fdf160e7885a80de4068380f5947278294fbbc23",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2114,
+      "size": "large",
+      "filename": "sleepy_sheep-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/sleepy_sheep-large.png",
+      "bytes": 7256567,
+      "sha256": "d7b9bbc81c082ce3149658de33992ad4eb4dfcf5010baf1e4c7ac0bd10c8ae4b",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2115,
+      "size": "small",
+      "filename": "icecream_octopus-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/icecream_octopus-small.png",
+      "bytes": 75017,
+      "sha256": "e7090bd830476eaac27366da321cade7f20cba1142aa9e86587359d4f61c4c56",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2115,
+      "size": "large",
+      "filename": "icecream_octopus-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/icecream_octopus-large.png",
+      "bytes": 7125210,
+      "sha256": "8bff54c213f86cf15437fd46321d05205487918eab9d38b6e46dadafccaea8d5",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2116,
+      "size": "small",
+      "filename": "ballerina_pig-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/ballerina_pig-small.png",
+      "bytes": 77180,
+      "sha256": "8be57a48ce8c8ec98eed71748d8afe9a8d6a8f9a94b5356ffecf5534afc02b88",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2116,
+      "size": "large",
+      "filename": "ballerina_pig-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/ballerina_pig-large.png",
+      "bytes": 7468147,
+      "sha256": "b2f0213cc1cec31894cc9b66964a734fdc35b2e3e3330b28300bbf4df5f8550c",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2117,
+      "size": "small",
+      "filename": "racer_skunk-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/racer_skunk-small.png",
+      "bytes": 75425,
+      "sha256": "698aaefcad6bb7fac16ab58b1c8860bfafdeba696d1431317a54da6923df4701",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2117,
+      "size": "large",
+      "filename": "racer_skunk-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/racer_skunk-large.png",
+      "bytes": 7153753,
+      "sha256": "9d536eb4453ed3326016b3798bc419f2117ab52876da886f03791a4c4ee5fec7",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2118,
+      "size": "small",
+      "filename": "juggler_monkey-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/juggler_monkey-small.png",
+      "bytes": 73875,
+      "sha256": "9d4ded63cd5a98f360657a7daeb4491d0369e443e75dcff9579453e51bf8cbda",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2118,
+      "size": "large",
+      "filename": "juggler_monkey-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/juggler_monkey-large.png",
+      "bytes": 7062387,
+      "sha256": "1e0b8225ae4def581aafc3d959f7391079597c5bbda8ccfeb3f39aa6357b1906",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2119,
+      "size": "small",
+      "filename": "golfer_dog-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/golfer_dog-small.png",
+      "bytes": 74097,
+      "sha256": "0fd668c5780fcaaba814ef52e384a13c41d9332c6c767f915d06d3d3fd1abc30",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2119,
+      "size": "large",
+      "filename": "golfer_dog-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/golfer_dog-large.png",
+      "bytes": 7049333,
+      "sha256": "e768ee43aa5b42f5c981562926cf9d2ee9acd839884594269d93dd6a5c740ee6",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2120,
+      "size": "small",
+      "filename": "racing_bee-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/racing_bee-small.png",
+      "bytes": 74873,
+      "sha256": "c4d664e697a7fafeac3dbd612d42b90e9c2adc581852c9a184307571ed956117",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2120,
+      "size": "large",
+      "filename": "racing_bee-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/racing_bee-large.png",
+      "bytes": 7115653,
+      "sha256": "5faf937c51cec635cd4d71bba0b6871bcf4b72577a724bfaab625d2568601d7f",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2121,
+      "size": "small",
+      "filename": "reading_crab-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/reading_crab-small.png",
+      "bytes": 74821,
+      "sha256": "9bbfa6c7f45e46716c6ec987c2ddfca2db78c7571d69e0174a5900f674fe9a1c",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2121,
+      "size": "large",
+      "filename": "reading_crab-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/reading_crab-large.png",
+      "bytes": 7216989,
+      "sha256": "0ba35483c1a0d895f660b97186bdce1d608d231519e288322ca7c31277ad3dbd",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2122,
+      "size": "small",
+      "filename": "surfer_snake-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/surfer_snake-small.png",
+      "bytes": 76268,
+      "sha256": "1982bf21522b865812cd660cd309e00c775a5ad87a53fe0bd7fe27177920f6d3",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2122,
+      "size": "large",
+      "filename": "surfer_snake-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/surfer_snake-large.png",
+      "bytes": 7358211,
+      "sha256": "0e833de0c4322e5c81c3da38f2d88ea82c528691c3a7e75fdd2d99917b407115",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2123,
+      "size": "small",
+      "filename": "ninja_cat-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/ninja_cat-small.png",
+      "bytes": 73175,
+      "sha256": "8bb2100c910c4929cb5d2b096feb5750f5ad6af1066413684e66683346145624",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2123,
+      "size": "large",
+      "filename": "ninja_cat-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/ninja_cat-large.png",
+      "bytes": 7058611,
+      "sha256": "d09faf25bc4c30c199af9372147f53a58e847b1878646940b7ffe09e99e8f4a7",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2124,
+      "size": "small",
+      "filename": "shopping_flamingo-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/shopping_flamingo-small.png",
+      "bytes": 76095,
+      "sha256": "213027cf034e3b1389765b50854bb05efe5b4dc3f41d29d993e95bd9c77fcdc3",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2124,
+      "size": "large",
+      "filename": "shopping_flamingo-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/shopping_flamingo-large.png",
+      "bytes": 7396339,
+      "sha256": "4eef8485be277ee7bee906c678a7d634e63faf756a3f76cd82b1987a3dc703ff",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2125,
+      "size": "small",
+      "filename": "chef_kangaroo-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/chef_kangaroo-small.png",
+      "bytes": 74701,
+      "sha256": "4ff572a88ae92ce5eff24674ad3bed3880534e94550824e8b61626b2afdc46b2",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2125,
+      "size": "large",
+      "filename": "chef_kangaroo-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/chef_kangaroo-large.png",
+      "bytes": 7178270,
+      "sha256": "f51426974363e3b91bf8383c1e7700773fcac9b60baa1f814595935cfbc90f91",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2126,
+      "size": "small",
+      "filename": "football_lion-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/football_lion-small.png",
+      "bytes": 73382,
+      "sha256": "f06d0656e7ea8db8e206d3fef7b03853f62cdd8771d08a3e955f86f1c5700c12",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2126,
+      "size": "large",
+      "filename": "football_lion-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/football_lion-large.png",
+      "bytes": 6988361,
+      "sha256": "f1745034cab770c2018973c357208fb24f8d96506e52f620294e7b5ba2a323c4",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2127,
+      "size": "small",
+      "filename": "fishing_horse-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/fishing_horse-small.png",
+      "bytes": 73404,
+      "sha256": "47516acb5dc7c64d130a334ec29e2cfbfd4cd0cf3562052677dc14fab2bda60d",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2127,
+      "size": "large",
+      "filename": "fishing_horse-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/fishing_horse-large.png",
+      "bytes": 7010742,
+      "sha256": "bbd2314b666f4a85fcfc6bfea2de26ff18024ad804b41849e8d00f6e70a823be",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2201,
+      "size": "small",
+      "filename": "star_chicken_common-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/star_chicken_common-small.png",
+      "bytes": 31998,
+      "sha256": "fdc125624fc777c6687f92125007d849dd75645c6e259bccb3692a7b228338ee",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2201,
+      "size": "large",
+      "filename": "star_chicken_common-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/star_chicken_common-large.png",
+      "bytes": 2034939,
+      "sha256": "5b41d0c8c89e8a9fefd0755b33461da4867f366ba1e2d365d9f71116b6b194ec",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2202,
+      "size": "small",
+      "filename": "lantern_camel_common-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/lantern_camel_common-small.png",
+      "bytes": 35066,
+      "sha256": "263572e46184a3e9f1a70445be7d25de0a9aece3381077a66653032b8bfef5f9",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2202,
+      "size": "large",
+      "filename": "lantern_camel_common-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/lantern_camel_common-large.png",
+      "bytes": 2203537,
+      "sha256": "3a079fe87c63773809fb2c02d18ca61a865c61fa1124c6c1a412ade7bd8a48d3",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2203,
+      "size": "small",
+      "filename": "painting_bird_common-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/painting_bird_common-small.png",
+      "bytes": 33457,
+      "sha256": "5596b7ff83000fa612ae65fb9a3a81b8b0087fd077cb69a1a4fc2361d5de7cbf",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2203,
+      "size": "large",
+      "filename": "painting_bird_common-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/painting_bird_common-large.png",
+      "bytes": 2112300,
+      "sha256": "119d8e171f829838d2f0fade15a29aef9927d8382599d91d696a288d62de92fe",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2204,
+      "size": "small",
+      "filename": "guitar_gator_common-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/guitar_gator_common-small.png",
+      "bytes": 40118,
+      "sha256": "e3e09a65f1e3c39b95cdd9e2d56d81e28a2f39cbdbdeddaa40f8c42377cff702",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2204,
+      "size": "large",
+      "filename": "guitar_gator_common-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/guitar_gator_common-large.png",
+      "bytes": 2417130,
+      "sha256": "bc4f7f903a9be6f977bb37bc750565ec35ecf160b280cf64ee9804251dfeb2cd",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2205,
+      "size": "small",
+      "filename": "selfie_frog_common-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/selfie_frog_common-small.png",
+      "bytes": 37092,
+      "sha256": "3535c87ce810c2db5b4b83438730e5df2024c7ff936190c3025f7749838f20e0",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2205,
+      "size": "large",
+      "filename": "selfie_frog_common-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/selfie_frog_common-large.png",
+      "bytes": 2186498,
+      "sha256": "6127e8f00c482c112d8a6812a1f0a3052a6b7e6b3819e262140d4d3aae025567",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2206,
+      "size": "small",
+      "filename": "cheering_donkey_common-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/cheering_donkey_common-small.png",
+      "bytes": 39464,
+      "sha256": "d4413429ee6ed4ba1debc2c19bb1e47a4368c0677ffc99c86508465f71f9cdc9",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2206,
+      "size": "large",
+      "filename": "cheering_donkey_common-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/cheering_donkey_common-large.png",
+      "bytes": 2289443,
+      "sha256": "cc7861b93c4b5575d073f48d31a20b47aac7d5746dee68a4ec61abca696721ce",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2207,
+      "size": "small",
+      "filename": "rope_owl_common-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/rope_owl_common-small.png",
+      "bytes": 36105,
+      "sha256": "ff485fb4cf7abc91471688862e59c777189e893be7d8c59e005d124598e33bd5",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2207,
+      "size": "large",
+      "filename": "rope_owl_common-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/rope_owl_common-large.png",
+      "bytes": 2185724,
+      "sha256": "a6e142e78b83a587955f1bc3d9c757b47344e84d6a9c3d2fe024685609da35af",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2208,
+      "size": "small",
+      "filename": "skater_bear_common-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/skater_bear_common-small.png",
+      "bytes": 34813,
+      "sha256": "bbe7aca45938b39c7449d37ba56c51643938019343e6da30849922d52e41546b",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2208,
+      "size": "large",
+      "filename": "skater_bear_common-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/skater_bear_common-large.png",
+      "bytes": 2113217,
+      "sha256": "b980b2439c878c0a0c056768f1da39bd04a792cb62c859ba45761e137cca7633",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2209,
+      "size": "small",
+      "filename": "bubble_giraffe_common-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/bubble_giraffe_common-small.png",
+      "bytes": 40037,
+      "sha256": "bb940c5c1f6c6044f8ac5d0319afb1894fbdd695bec8a9a86ca4072502bb73e7",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2209,
+      "size": "large",
+      "filename": "bubble_giraffe_common-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/bubble_giraffe_common-large.png",
+      "bytes": 2408320,
+      "sha256": "7cbc67d38716bbe495fdfabcfec774326a177015ba3fe42fdc92eda0c057cd73",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2210,
+      "size": "small",
+      "filename": "magician_tiger_common-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/magician_tiger_common-small.png",
+      "bytes": 40268,
+      "sha256": "cc44e18cba6decccd16252b53a788940f1956ebfc4eb87b21ce3fe3853263555",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2210,
+      "size": "large",
+      "filename": "magician_tiger_common-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/magician_tiger_common-large.png",
+      "bytes": 2404317,
+      "sha256": "8e3729a62708046f8033c586ae5e365dd323d319693dc5f122b9c46264c5b6e0",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2211,
+      "size": "small",
+      "filename": "pirate_turkey_common-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/pirate_turkey_common-small.png",
+      "bytes": 38072,
+      "sha256": "d3fee59eea8d4bf4cd013b8c6878164e8b8c9734765d3c682cbe6ec61d484c90",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2211,
+      "size": "large",
+      "filename": "pirate_turkey_common-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/pirate_turkey_common-large.png",
+      "bytes": 2275162,
+      "sha256": "eaf6350eb4b1d7e3e6afd632a4cbebc5bf9bbbedbc3e7143f1e40a948736816d",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2212,
+      "size": "small",
+      "filename": "rodeo_dinosaur_common-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/rodeo_dinosaur_common-small.png",
+      "bytes": 36813,
+      "sha256": "3e0da280c3600687ffc31811352729ce79766c0e3b90b594ccf8e90d584a6838",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2212,
+      "size": "large",
+      "filename": "rodeo_dinosaur_common-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/rodeo_dinosaur_common-large.png",
+      "bytes": 2236798,
+      "sha256": "033d84254bc71de038a2d40ca5731b618381b060765956258ad193240a142d82",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2213,
+      "size": "small",
+      "filename": "swimmer_squirrel_common-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/swimmer_squirrel_common-small.png",
+      "bytes": 35335,
+      "sha256": "a23c7649dff9edf1b4c09a3b44cd712a4e17cee2fc987c8c18e2abe1631fde48",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2213,
+      "size": "large",
+      "filename": "swimmer_squirrel_common-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/swimmer_squirrel_common-large.png",
+      "bytes": 2164950,
+      "sha256": "a3dee21384df4830413ab17566e2e0bb67b9b01d73a3e6081e79d85bb2507f07",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2214,
+      "size": "small",
+      "filename": "sleepy_sheep_common-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/sleepy_sheep_common-small.png",
+      "bytes": 35425,
+      "sha256": "e7de3d43042f4d19817cef588f36e82c1b7e29d299a22d15bd833c0effab238a",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2214,
+      "size": "large",
+      "filename": "sleepy_sheep_common-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/sleepy_sheep_common-large.png",
+      "bytes": 2104426,
+      "sha256": "c7d59cd80de54779561fd2934ff6f798d24cfd610935843cb566ad2a04ea1e9d",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2215,
+      "size": "small",
+      "filename": "icecream_octopus_common-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/icecream_octopus_common-small.png",
+      "bytes": 38142,
+      "sha256": "4ca6f794c07c40f73e01829077984e50f4acc9884ff91bb62221c0b7c84992a7",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2215,
+      "size": "large",
+      "filename": "icecream_octopus_common-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/icecream_octopus_common-large.png",
+      "bytes": 2365917,
+      "sha256": "c385a33bdc02dd4679ba98facdc724e3520a671131d81d59bf70dc18779d91de",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2216,
+      "size": "small",
+      "filename": "ballerina_pig_common-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/ballerina_pig_common-small.png",
+      "bytes": 33739,
+      "sha256": "ca6b61a1faab1d95142bb75bae46a1167a632212b6851e0974c39a54dda1c272",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2216,
+      "size": "large",
+      "filename": "ballerina_pig_common-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/ballerina_pig_common-large.png",
+      "bytes": 2136473,
+      "sha256": "b27347af2898f6e35a91dd71dafdbfc3635f3f85ddb8d22d157aa1c9df1b7cfe",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2217,
+      "size": "small",
+      "filename": "racer_skunk_common-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/racer_skunk_common-small.png",
+      "bytes": 38505,
+      "sha256": "fc7dc870bdb2a99e3cb16a5223a3929b0b6f3cf33ec5be4ebc69eb359eb0461e",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2217,
+      "size": "large",
+      "filename": "racer_skunk_common-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/racer_skunk_common-large.png",
+      "bytes": 2310783,
+      "sha256": "2b344c700bd38169e4105589a40ca9f266eaeefe05acc248ad5e9826fd68bdb6",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2218,
+      "size": "small",
+      "filename": "juggler_monkey_common-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/juggler_monkey_common-small.png",
+      "bytes": 34474,
+      "sha256": "8071937fd59632b8a78f54fe9fbef9abbc2d228217cd9b5001e0f913b7b457c0",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2218,
+      "size": "large",
+      "filename": "juggler_monkey_common-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/juggler_monkey_common-large.png",
+      "bytes": 2120701,
+      "sha256": "7669535ef994a0d6dac4df7d66610350d28344579c6d620abbbbea1fd83c1f02",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2219,
+      "size": "small",
+      "filename": "golfer_dog_common-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/golfer_dog_common-small.png",
+      "bytes": 34047,
+      "sha256": "8d23aede0cdcd69e1d8fe572da9e4d25aee1faaabd9bc4ca53c221167e77bd8f",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2219,
+      "size": "large",
+      "filename": "golfer_dog_common-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/golfer_dog_common-large.png",
+      "bytes": 2089321,
+      "sha256": "c5de51cadc984b4df42b37f814500797c0b7be0d443d030f69344f8983cbf89d",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2220,
+      "size": "small",
+      "filename": "racing_bee_common-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/racing_bee_common-small.png",
+      "bytes": 36152,
+      "sha256": "b6b76fb2bfdf611f5b43755675ac09cd2300c7ce72629fabb8c6fa88cc427d64",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2220,
+      "size": "large",
+      "filename": "racing_bee_common-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/racing_bee_common-large.png",
+      "bytes": 2168739,
+      "sha256": "dbb17a814ba306ca14ca6082bb5923cb2d7daf402046b21aa3926b974d855f44",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2221,
+      "size": "small",
+      "filename": "reading_crab_common-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/reading_crab_common-small.png",
+      "bytes": 39763,
+      "sha256": "88c32e3521c2108b29943546a104f14416b5f289e907d14c2b7bcf4ae4f10614",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2221,
+      "size": "large",
+      "filename": "reading_crab_common-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/reading_crab_common-large.png",
+      "bytes": 2357873,
+      "sha256": "0ecc2171db3c50e94d60c895ba95974bddc6aee6afe559bd42042ebf1c0426f8",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2222,
+      "size": "small",
+      "filename": "surfer_snake_common-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/surfer_snake_common-small.png",
+      "bytes": 38971,
+      "sha256": "0173f5dfb41bbeb5ada8d99cb82556d2df0e30cd052b8c557c8c67d8ec3ae426",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2222,
+      "size": "large",
+      "filename": "surfer_snake_common-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/surfer_snake_common-large.png",
+      "bytes": 2280567,
+      "sha256": "4bdb8c891816a935747ba0c551c20d9819160eb67dc6977af10d5e715eca77a2",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2223,
+      "size": "small",
+      "filename": "ninja_cat_common-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/ninja_cat_common-small.png",
+      "bytes": 36231,
+      "sha256": "647d27a01425fc3154bb913e94f23a5646a547b53d927cc0125010024add5a6b",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2223,
+      "size": "large",
+      "filename": "ninja_cat_common-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/ninja_cat_common-large.png",
+      "bytes": 2163360,
+      "sha256": "0d19aa88abf28a81c9850fea24cadfb066f645a0c8d7840e98f26c593f72660c",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2224,
+      "size": "small",
+      "filename": "shopping_flamingo_common-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/shopping_flamingo_common-small.png",
+      "bytes": 39781,
+      "sha256": "036f053e94b6d153aab2a76ab4d87afe678c8d6c7e5958dd9aaf1380b56f7120",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2224,
+      "size": "large",
+      "filename": "shopping_flamingo_common-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/shopping_flamingo_common-large.png",
+      "bytes": 2419312,
+      "sha256": "bc30722d24e0b25353a17e3d86d8352d2fc119a207138c31c30ad7b06c33ea6d",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2225,
+      "size": "small",
+      "filename": "chef_kangaroo_common-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/chef_kangaroo_common-small.png",
+      "bytes": 35952,
+      "sha256": "6f4b495df725c9ce137ce4a01eb6d44fe9a55baf61d0b6c1f77e94a671cf7d86",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2225,
+      "size": "large",
+      "filename": "chef_kangaroo_common-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/chef_kangaroo_common-large.png",
+      "bytes": 2183996,
+      "sha256": "5f64c465a0a65d46cd3b733cbad11f60d4e28aa4e8ff144d38ae61a8707cb3a7",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2226,
+      "size": "small",
+      "filename": "football_lion_common-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/football_lion_common-small.png",
+      "bytes": 40429,
+      "sha256": "b7acca621e095ba2ab13fd7912dbc275754c49f751e46ee7b73e133cdf18e18d",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2226,
+      "size": "large",
+      "filename": "football_lion_common-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/football_lion_common-large.png",
+      "bytes": 2417882,
+      "sha256": "103a38446eef5c7b30e0bee7dd0c10e001738100df788c2b12bb47583d471f2b",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "itemdefid": 2227,
+      "size": "small",
+      "filename": "fishing_horse_common-small.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/fishing_horse_common-small.png",
+      "bytes": 39099,
+      "sha256": "84f543b01c78422f906d0b083d9d5b2a322d9336fd164049c3d22b4ff4280582",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "itemdefid": 2227,
+      "size": "large",
+      "filename": "fishing_horse_common-large.png",
+      "url": "https://raw.githubusercontent.com/fdddfdfs/owl-skips-inventory-assets/main/icons/v1/fishing_horse_common-large.png",
+      "bytes": 2300341,
+      "sha256": "f568173e4079763f1def08dff06cce6c8b677f097804cc7971ef52e227c5d70b",
+      "width": 2048,
+      "height": 2048
+    }
+  ]
+}
